@@ -2,7 +2,7 @@
 title: '$\LaTeX$ で書いたようにしか見えない HTML を作った話'
 text-title: LaTeX で書いたようにしか見えない HTML を作った話
 author: まど
-date: 2021年12月4日
+date: 2021年12月5日
 ---
 
 ## はじめに
