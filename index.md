@@ -77,7 +77,7 @@ tex-html Markdownのファイル名 -o HTMLのファイル名
 
 もしくは、次のように標準入力・標準出力を使うこともできます。
 
-```{.next-page}
+```
 tex-html <Markdownのファイル名 >HTMLのファイル名
 ```
 
