@@ -81,7 +81,7 @@ tex-html <Markdownのファイル名 >HTMLのファイル名
 ## 書けるもの
 普通の Markdown で書けるものに加えて、数式も書くことができます。
 
-数式は、AsciiMath か LaTeX で書くことができるようにしました。AsciiMath というのは、書けることを数式に絞るとこで LaTeX を書きやすくしたような言語です。できることは\LaTeXより少ないものの、LaTeX よりも簡潔に数式を書くことができます。AsciiMath の書き方は [asciimath.org](http://asciimath.org/) から見れます。
+数式は、AsciiMath か LaTeX で書くことができるようにしました。AsciiMath というのは、書けることを数式に絞るとこで LaTeX を書きやすくしたような言語です。できることはLaTeXより少ないものの、LaTeX よりも簡潔に数式を書くことができます。AsciiMath の書き方は [asciimath.org](http://asciimath.org/) から見れます。
 
 Markdown 内で次のように `$$` を使うと LaTeX で数式が書けます。数式の表示には、$\KaTeX$ というライブラリを使っています。どのコマンドが使えるかは [KaTeX のドキュメント](https://katex.org/docs/supported.html)で確認してください。
 
