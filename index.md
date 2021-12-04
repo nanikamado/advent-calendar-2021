@@ -154,7 +154,7 @@ Pandocと Paged.jsによってMarkdownからLaTeX風のHTMLを作ることには
     - Typoset.sh
     - Vivliostyle
 
-  この中で、Weasy-print、Paged.js、Vivliostyle、以外はプロプライエタリです。非営利の利用は無料になっているものもありますが、各種パッケージマネージャーで配信されていなかったり、無料で利用する場合でもライセンスキーを取得しなければならなかったりしていろいろ面倒だったので、これらは使いませんでした。
+  この中で、PDFreactor、Prince、Antenna-house、Typoset.sh はプロプライエタリです。非営利の場合は無料で利用できるものもありますが、各種パッケージマネージャーで配信されていなかったり、無料で利用する場合でもライセンスキーを取得しなければならなかったりしていろいろ面倒だったので、これらは使いませんでした。
 
   Vivliostyleは Running elements という機能をサポートしていないのですが、Running elements は使いたいので、これも除外です。
 
