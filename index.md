@@ -34,7 +34,9 @@ $$
 |  `cos a`   |          `\cos a`           |  $:a cos a$   |
 :AsciiMath と LaTeX の比較 {#tbl:table1}
 
+::::{.next-page}
 このままでも十分な LaTeX ですが、ブラウザの印刷機能でPDFにすればもっと LaTeX になります。ブラウザは PC 版の Chrome か Firefox が良いです。iOS とかだと注釈がうまく表示されません。
+::::
 
 ## 作った経緯
 LaTeXにはファンが多いですが、私は LaTeX を書くのが苦手です。できることなら LaTeX を書きたくありません。今まで、どうしてもLaTeXを使ってレポートを書く必要がある場合は、Markdown を Pandoc で LaTeX に変換する方法を使っていました。この方法では一旦 LaTeX を経由してから PDF にするため、LaTeX の全コマンドが使えるという大きなメリットがあり、大変お世話になりました。
