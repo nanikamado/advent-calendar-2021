@@ -22,7 +22,7 @@ $$:a
 f'(x)=lim_{Delta x->0}(f(x+Delta x)-f(x))/(Delta x)
 $$
 
-表も一応 LaTeX 風です。[注釈もLaTeX風です。]{.foot-note}
+表も一応 LaTeX 風です。[注釈もLaTeX風です。]{.footnote}
 
 | AsciiMath  |          $\LaTeX$           |     表示      |
 | :--------: | :-------------------------: | :-----------: |
