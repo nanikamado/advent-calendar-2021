@@ -35,7 +35,7 @@ $$
 :AsciiMath と LaTeX の比較 {#tbl:table1}
 
 ::::{.next-page}
-このままでも十分な LaTeX ですが、ブラウザの印刷機能でPDFにすればもっと LaTeX になります。ブラウザは PC 版の Chrome か Firefox が良いです。iOS とかだと注釈がうまく表示されません。
+このままでも十分な LaTeX ですが、ブラウザの印刷機能でPDFにすればもっと LaTeX になります。ブラウザは PC 版の Chrome か Firefox が良いです。
 ::::
 
 ## 作った経緯
